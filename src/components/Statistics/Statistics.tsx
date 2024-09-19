@@ -8,7 +8,6 @@ interface IStatisticsProps {
 }
 
 const Statistics = ({ title, statistics }: IStatisticsProps) => {
-  console.log('hier');
   return (
     <section className={style.statistics}>
       {title && <h2 className={style.title}>{title}</h2>}
