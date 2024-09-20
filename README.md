@@ -12,7 +12,7 @@
 
 # Acceptance criteria
 
-- The `react-hw-01-components` repository has been created.
+- The `react-hw-01-components_ts` repository has been created.
 - The components of all tasks are rendered on one page, inside a common container - the root
   component `<App>`.
 - When submitting homework, there is a link to the repository with the source code of the project.
@@ -259,7 +259,7 @@ import transactions from 'path/to/transactions.json';
 
 # Критерії прийому
 
-- Створено репозиторій `react-hw-01-components`.
+- Створено репозиторій `react-hw-01-components_ts`.
 - Компоненти всіх завдань рендеруються на одній сторінці, усередині загального контейнера –
   кореневого компонента `<App>`.
 - При здачі домашньої роботи є посилання на репозиторій із вихідним кодом проекту.
@@ -507,7 +507,7 @@ import transactions from 'шлях/до/transactions.json';
 
 # Критерии приема
 
-- Создан репозиторий `react-hw-01-components`.
+- Создан репозиторий `react-hw-01-components_ts`.
 - Компоненты всех заданий рендерятся на одной странице, внутри общего контейнера - корневого
   компонента `<App>`.
 - При сдаче домашней работы есть ссылка на репозиторий с исходным кодом проекта.
